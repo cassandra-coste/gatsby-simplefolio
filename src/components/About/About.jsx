@@ -45,9 +45,6 @@ const About = () => {
                   {paragraphTwo ||
                     'Experienced Program Manager skilled in managing functional operations and projects related to supplies and logistics. Advanced understanding of organizational strategies, financial management, procurement and contracting. Expertise in logistical analysis, including inventory and supply chain performance, development and standardization. Thorough understanding of inventory management, procurement and acquisition regulations.'}
                 </p>
-                <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
-                </p>
                 {resume && (
                   <span className="d-flex mt-3">
                     <a

@@ -67,11 +67,6 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'rstudio',
-      url: 'https://rpubs.com/cassandra-coste/',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
       url: 'https://linkedin.com/in/cassandra-coste',
     },
