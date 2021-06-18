@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'cassandra.coste@nyu.edu',
 };
 
 // FOOTER DATA
@@ -72,8 +72,8 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'facebook',
-      url: '',
+      name: 'rpubs',
+      url: 'https://rpubs.com/cassandra-coste/',
     },
     {
       id: nanoid(),
@@ -90,5 +90,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
