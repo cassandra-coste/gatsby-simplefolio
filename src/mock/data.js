@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'Project1.jpg',
+    img: 'Project1B&W.jpg',
     title: 'Vaccine Adverse Event Reporting',
     info: 'In this project I explore the United State’s Vaccine Adverse Event Reporting System and seek to discover if there are symptoms that are more common in different manufacturers of the COVID-19 vaccine.',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Project2.jpg',
+    img: 'Project2B&W.jpg',
     title: 'FEMA IHP Program',
     info: '',
     info2: '',

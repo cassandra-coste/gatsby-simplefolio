@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Experienced Program Manager with exceptional research skills and resourcefulness as well as strong technical problem-solving skills and an ability to troubleshoot complex issues. Advanced understanding of organizational strategies, financial management, procurement and contracting. Expertise in student information systems, infrastructure planning and management, procurement and management, budgeting, support services and vendor management.'}
+                    'Experienced Program Manager with exceptional research skills and resourcefulness as well as strong technical problem-solving skills and an ability to troubleshoot complex issues. Expertise in student information systems, procurement and management, budgeting, support services and vendor management.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
