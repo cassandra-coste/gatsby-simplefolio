@@ -39,19 +39,11 @@ export const projectsData = [
     id: nanoid(),
     img: 'Project2B&W.jpg',
     title: 'FEMA IHP Program',
+    info: 'In this project I explore FEMA Individual and Households Program and investigate if there is equitable distribution of resources in line with their mission.',
     info: '',
     info2: '',
     url: '',
     repo: 'https://github.com/cassandra-coste/CUNY607/blob/main/projects/CUNY-607-Final-Project.Rmd', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
 
